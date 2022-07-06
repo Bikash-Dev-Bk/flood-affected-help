@@ -38,12 +38,12 @@ p{
     margin-bottom: 50px;
 }
 
-.section-two{
+.donate{
     text-align: center;
     padding-top: 90px;
     height: 650px;
 }
-.section-two-header{
+.donate-header{
     margin-bottom: 100px;
 }
 
@@ -85,17 +85,17 @@ h2{
     text-align: center;
 }
 
-.section-three{
+.donate-plan{
     margin-bottom: 80px;
 
 }
 
-.section-three-header{
+.donate-plan-header{
     text-align: center;
     
 }
 
-.container-flex{
+.donate-plan-container-flex{
     display: flex;
     justify-content: space-around;
     margin: 10px;
@@ -141,7 +141,6 @@ h3{
     text-align: justify;
 }
 
-
 .update{
     height: 550px;
     margin-bottom: 100px;
@@ -151,7 +150,7 @@ h3{
     text-align: center;
 }
 
-.update-email{
+.update-contant{
     padding-top: 110px;
     text-align: center;
     background-color: bisque;
@@ -177,7 +176,6 @@ h3{
     font-size: 25px;
     border-radius: 5px;
 }
-
 
 footer{
     background-color: rgb(40, 40, 40);
