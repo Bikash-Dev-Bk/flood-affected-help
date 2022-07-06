@@ -110,6 +110,7 @@ h3{
     width: 25%;
     height: 270px;
     padding: 70px 25px;
+    text-align: justify;
     
 }
 
@@ -123,11 +124,12 @@ h3{
 
 #card3{
     background-color: rgb(249, 238, 198);
+    
 }
 
 .flood-description{
     background-color: rgb(220, 220, 220);
-    height: 1300px;
+    height: 2300px;
     width: 100%;
 }
 
