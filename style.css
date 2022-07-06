@@ -38,7 +38,7 @@ p{
     margin-bottom: 50px;
 }
 
-.donate{
+.section-two{
     text-align: center;
     padding-top: 90px;
     height: 650px;
@@ -58,7 +58,7 @@ h2{
     font-size: 45px;
 }
 
-.selected-amount{
+.selected-amount-btn{
     text-decoration: none;
     color: rgb(223, 43, 43);
     background-color: rgb(247, 185, 185);
@@ -81,13 +81,45 @@ h2{
     text-align: center;
 }
 
+.section-three{
+    margin-bottom: 80px;
 
+}
 
+.section-three-header{
+    text-align: center;
+    
+}
 
+.container-flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
 
+h3{
+    font-size: 30px;
+}
 
+.card{
+    width: 25%;
+    height: 270px;
+    padding: 70px 25px;
+    
+}
 
+.card1{
+    background-color: rgb(229, 252, 255);
+}
 
+.card2{
+    background-color: rgb(255, 229, 247);
+}
+
+.card3{
+    background-color: rgb(249, 238, 198);
+}
 
 
 
