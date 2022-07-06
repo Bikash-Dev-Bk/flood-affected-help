@@ -19,8 +19,8 @@ body{
 
 }
 
-.donate-btn{
-    text-decoration: none;
+.donate-btn button{
+    border: none;
     color: white;
     background-color: rgb(218, 70, 70);
     padding: 15px 20px;
@@ -44,11 +44,11 @@ p{
     height: 650px;
 }
 .donate-header{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
-.amount-btn{
-    text-decoration: none;
+.amount-btn button{
+    border: none;
     color: rgb(88, 86, 86);
     background-color: rgb(235, 233, 233);
     padding: 35px 20px;
@@ -61,8 +61,7 @@ h2{
     font-size: 45px;
 }
 
-.selected-amount-btn{
-    text-decoration: none;
+#selected-amount-btn{
     color: tomato;
     background-color: rgb(255, 228, 228);
     padding: 35px 20px;
@@ -72,7 +71,7 @@ h2{
     border-radius: 5px;
 }
 
-.text-area{
+.text-area textarea{
     margin-top: 80px;
     margin-bottom: 35px;
     height: 30px;
@@ -98,7 +97,7 @@ h2{
 .donate-plan-container-flex{
     display: flex;
     justify-content: space-around;
-    margin: 10px;
+    margin: 30px;
     
 }
 
@@ -167,16 +166,19 @@ h3{
     background-color: rgb(214, 214, 214);
     font-weight: bold;
     border: none;
-    border-radius: 8px;
+    margin-right: -5px;
+    
 }
 #subscribe-btn{
     text-decoration: none;
     color: white;
     background-color: rgb(218, 70, 70);
-    padding: 8px 20px;
+    height: 52px;
+    width: 200px;
     font-weight: bold;
     font-size: 25px;
-    border-radius: 5px;
+    padding-bottom: 8px;
+    border: none;
 }
 
 footer{
@@ -186,6 +188,7 @@ footer{
     text-align: center;
     padding-top: 60px;
 }
+
 footer h2{
     font-family: 'Great Vibes', cursive;
     font-size: 35px;
