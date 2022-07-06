@@ -19,7 +19,7 @@ body{
 
 }
 
-.banner-btn{
+.donate-btn{
     text-decoration: none;
     color: white;
     background-color: rgb(218, 70, 70);
@@ -37,6 +37,60 @@ p{
     font-size: 20px;
     margin-bottom: 50px;
 }
+
+.donate{
+    text-align: center;
+    padding-top: 90px;
+    height: 650px;
+}
+
+.amount-btn{
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+    background-color: rgb(235, 233, 233);
+    padding: 35px 20px;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+h2{
+    font-size: 45px;
+}
+
+.selected-amount{
+    text-decoration: none;
+    color: rgb(223, 43, 43);
+    background-color: rgb(247, 185, 185);
+    padding: 35px 20px;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.text-area{
+    margin-top: 80px;
+    margin-bottom: 35px;
+    height: 30px;
+    width: 45%;
+    padding: 12px 20px;
+    border: none;;
+    border-bottom:2px solid rgb(160, 160, 160);
+    font-size: 20px;
+    resize: none;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 footer{
     background-color: rgb(40, 40, 40);
