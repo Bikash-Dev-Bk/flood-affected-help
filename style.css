@@ -43,6 +43,9 @@ p{
     padding-top: 90px;
     height: 650px;
 }
+.section-two-header{
+    margin-bottom: 100px;
+}
 
 .amount-btn{
     text-decoration: none;
@@ -60,11 +63,12 @@ h2{
 
 .selected-amount-btn{
     text-decoration: none;
-    color: rgb(223, 43, 43);
-    background-color: rgb(247, 185, 185);
+    color: tomato;
+    background-color: rgb(255, 228, 228);
     padding: 35px 20px;
     font-weight: bold;
     font-size: 25px;
+    border: 3px solid tomato;
     border-radius: 5px;
 }
 
@@ -109,17 +113,55 @@ h3{
     
 }
 
-.card1{
+#card1{
     background-color: rgb(229, 252, 255);
 }
 
-.card2{
+#card2{
     background-color: rgb(255, 229, 247);
 }
 
-.card3{
+#card3{
     background-color: rgb(249, 238, 198);
 }
+
+.update{
+    height: 550px;
+    margin-bottom: 100px;
+}
+
+.update-header{
+    text-align: center;
+}
+
+.update-email{
+    padding-top: 110px;
+    text-align: center;
+    background-color: bisque;
+    height: 160px;
+    width: 60%;
+    margin-left: 300px;
+}
+
+#email{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(214, 214, 214);
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}
+#subscribe-btn{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(218, 70, 70);
+    padding: 8px 20px;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+
 
 
 
